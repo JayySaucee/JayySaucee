@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayysaucee&label=Profile%20views&color=0e75b6&style=flat" alt="jayysaucee" /> </p>
 
-- 🔭 I’m currently working on [Parchment Project](https://www.parchment.page/)
+- 🔭 I’m currently working on the [Parchment Project](https://www.parchment.page/)
 
 - 🌱 I’m currently learning **Operating Systems, Front-End Frameworks**
 
 - 💬 Ask me about **Project ideas or collaboration**
 
-- 📫 How to reach me **jorgealejandre.piki@gmail.com**
+- 📫 Reach me at **jorgealejandre.piki@gmail.com**
 
-- ⚡ Fun fact **I have a 1 year old bombay cat named Sunbeam**
+- ⚡ Fun fact, **I have a 1 year old bombay cat named Sunbeam**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
