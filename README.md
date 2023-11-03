@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on the [Parchment Project](https://www.parchment.page/)
 
-- 🌱 I’m currently learning **Operating Systems, Front-End Frameworks**
+- 🌱 I’m currently learning **Operating Systems, Front-End Frameworks, and Cloud Application Development**
 
 - 💬 Ask me about **Project ideas or collaboration**
 
