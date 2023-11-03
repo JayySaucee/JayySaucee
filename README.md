@@ -2,6 +2,7 @@
 <h3 align="center">A Software Engineer from Salem, OR</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayysaucee&label=Profile%20views&color=0e75b6&style=flat" alt="jayysaucee" /> </p>
+[![wakatime](https://wakatime.com/badge/user/3cbbcf44-ce40-430e-bcdb-edf9c54425b5.svg)](https://wakatime.com/@3cbbcf44-ce40-430e-bcdb-edf9c54425b5)
 
 - 🔭 I’m currently working on the [Parchment Project](https://www.parchment.page/)
 
