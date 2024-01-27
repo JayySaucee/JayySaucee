@@ -12,7 +12,7 @@
 
 - 📫 Reach me at **jorgealejandre.piki@gmail.com**
 
-- ⚡ Fun fact, **I have a 1 year old bombay cat named Sunbeam**
+- ⚡ Fun fact, **I have a 2 year old bombay cat named Sunbeam**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
