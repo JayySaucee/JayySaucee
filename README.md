@@ -4,15 +4,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayysaucee&label=Profile%20views&color=0e75b6&style=flat" alt="jayysaucee" /> </p>
 <a href="https://wakatime.com/@3cbbcf44-ce40-430e-bcdb-edf9c54425b5"><img src="https://wakatime.com/badge/user/3cbbcf44-ce40-430e-bcdb-edf9c54425b5.svg" alt="Total time coded since Mar 24 2023" /></a>
 
-- 🔭 I’m currently working on the [Parchment Project](https://www.parchment.page/)
-
-- 🌱 I’m currently learning **Operating Systems, Front-End Frameworks, and Cloud Application Development**
+- 🔭 I’m currently working on some projects
 
 - 💬 Ask me about **Project ideas or collaboration**
 
 - 📫 Reach me at **jorgealejandre.piki@gmail.com**
 
-- ⚡ Fun fact, **I have a 2 year old bombay cat named Sunbeam**
+- ⚡ Fun fact, **I have a 3 year old bombay cat named Sunbeam**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
